@@ -1,0 +1,13 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.planes,PlanFamiliar,12,0,0,0,3,0,2,0,2,0
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.planes,Usuario,21,36,0,0,4,10,2,6,2,6
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.planes,PlanBasico,0,34,0,0,0,7,0,2,0,2
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.planes,PlanPremium,6,0,0,0,2,0,2,0,2,0
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.contenidos.series,Serie,29,0,0,0,5,0,4,0,4,0
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.contenidos.series,Temporada,29,0,0,0,7,0,5,0,5,0
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.contenidos.series,Episodio,18,0,0,0,7,0,4,0,4,0
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.contenidos,Documental,16,0,0,0,4,0,3,0,3,0
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.contenidos,Contenido,6,9,0,0,2,4,2,1,2,1
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.contenidos,IDRA,4,0,0,0,1,0,1,0,1,0
+plataforma-contenidos,ar.edu.unahur.obj2.w2j.contenidos,Pelicula,0,5,0,0,0,2,0,1,0,1
+plataforma-contenidos,ar.edu.unahur.obj2.w2j,Main,7,0,0,0,3,0,2,0,2,0
